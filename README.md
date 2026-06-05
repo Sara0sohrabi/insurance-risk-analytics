@@ -188,4 +188,3 @@ Author
 Sara Sohrabi
 Data Science | Insurance Analytics | Machine Learning | Business Intelligence | Data Warehouse
 
-این پروژه کنار customer-segmentation-platform در GitHub بسیار حرفه‌ای دیده می‌شود، چون یکی روی Segmentation و دیگری روی Risk Analytics تمرکز دارد؛ دو موضوع بسیار مهم در صنعت بیمه.
